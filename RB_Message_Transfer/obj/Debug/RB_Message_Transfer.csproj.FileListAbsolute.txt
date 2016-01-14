@@ -1,0 +1,88 @@
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\RB_Message_Transfer\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.2\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.3\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.3\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.3\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.3\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.3\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\MIS PROGRAMAS\4to\Redes Bayesianas\Red Bayesiana1.5\RB_Message_Transfer\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\MIS PROGRAMAS\4to\Redes Bayesianas\Red Bayesiana1.5\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\MIS PROGRAMAS\4to\Redes Bayesianas\Red Bayesiana1.5\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\MIS PROGRAMAS\4to\Redes Bayesianas\Red Bayesiana1.5\RB_Message_Transfer\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\MIS PROGRAMAS\4to\Redes Bayesianas\Red Bayesiana1.5\RB_Message_Transfer\obj\Debug\RB_Message_Transfer.pdb
